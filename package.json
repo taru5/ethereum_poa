@@ -1,0 +1,30 @@
+{
+  "name": "ethereum_poa",
+  "version": "1.0.0",
+  "description": "Verify POA for Ethereum private node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taru5/ethereum_poa.git"
+  },
+  "keywords": [
+    "ethereum",
+    "poa",
+    "private",
+    "node"
+  ],
+  "author": "Pallavi Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^7.2.1",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.34"
+  },
+  "bugs": {
+    "url": "https://github.com/taru5/ethereum_poa/issues"
+  },
+  "homepage": "https://github.com/taru5/ethereum_poa#readme"
+}
